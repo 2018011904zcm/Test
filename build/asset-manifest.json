@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/2018011904zcm/Test/build/static/css/main.9f7528e2.chunk.css",
+    "main.js": "/2018011904zcm/Test/build/static/js/main.250e05d4.chunk.js",
+    "main.js.map": "/2018011904zcm/Test/build/static/js/main.250e05d4.chunk.js.map",
+    "runtime-main.js": "/2018011904zcm/Test/build/static/js/runtime-main.c1bf54e3.js",
+    "runtime-main.js.map": "/2018011904zcm/Test/build/static/js/runtime-main.c1bf54e3.js.map",
+    "static/css/2.f98a1de1.chunk.css": "/2018011904zcm/Test/build/static/css/2.f98a1de1.chunk.css",
+    "static/js/2.fd48a39c.chunk.js": "/2018011904zcm/Test/build/static/js/2.fd48a39c.chunk.js",
+    "static/js/2.fd48a39c.chunk.js.map": "/2018011904zcm/Test/build/static/js/2.fd48a39c.chunk.js.map",
+    "index.html": "/2018011904zcm/Test/build/index.html",
+    "precache-manifest.9b4cf6bce230b97dcbe02ba0372091cf.js": "/2018011904zcm/Test/build/precache-manifest.9b4cf6bce230b97dcbe02ba0372091cf.js",
+    "service-worker.js": "/2018011904zcm/Test/build/service-worker.js",
+    "static/css/2.f98a1de1.chunk.css.map": "/2018011904zcm/Test/build/static/css/2.f98a1de1.chunk.css.map",
+    "static/css/main.9f7528e2.chunk.css.map": "/2018011904zcm/Test/build/static/css/main.9f7528e2.chunk.css.map",
+    "static/js/2.fd48a39c.chunk.js.LICENSE.txt": "/2018011904zcm/Test/build/static/js/2.fd48a39c.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/2018011904zcm/Test/build/static/media/1.60b47325.jpg",
+    "static/media/2.jpg": "/2018011904zcm/Test/build/static/media/2.71214b2b.jpg",
+    "static/media/3.jpg": "/2018011904zcm/Test/build/static/media/3.fb6da3f5.jpg",
+    "static/media/4.jpg": "/2018011904zcm/Test/build/static/media/4.5b396004.jpg",
+    "static/media/5.jpg": "/2018011904zcm/Test/build/static/media/5.82e95ed8.jpg",
+    "static/media/6.jpg": "/2018011904zcm/Test/build/static/media/6.30b46cd9.jpg",
+    "static/media/7.jpg": "/2018011904zcm/Test/build/static/media/7.97192244.jpg",
+    "static/media/8.jpg": "/2018011904zcm/Test/build/static/media/8.68dae5d4.jpg",
+    "static/media/bed.jpg": "/2018011904zcm/Test/build/static/media/bed.f94fe459.jpg",
+    "static/media/chop.jpg": "/2018011904zcm/Test/build/static/media/chop.6b1da351.jpg",
+    "static/media/clock.jpg": "/2018011904zcm/Test/build/static/media/clock.95605d06.jpg",
+    "static/media/cup.jpg": "/2018011904zcm/Test/build/static/media/cup.471cb535.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1bf54e3.js",
+    "static/css/2.f98a1de1.chunk.css",
+    "static/js/2.fd48a39c.chunk.js",
+    "static/css/main.9f7528e2.chunk.css",
+    "static/js/main.250e05d4.chunk.js"
+  ]
+}
